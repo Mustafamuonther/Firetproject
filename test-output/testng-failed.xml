@@ -6,7 +6,7 @@
       <class name="MyTestCases">
         <methods>
           <include name="MySetUp"/>
-          <include name="Dynamic_Dropdown_Example"/>
+          <include name="Switch_Tab"/>
         </methods>
       </class> <!-- MyTestCases -->
     </classes>
